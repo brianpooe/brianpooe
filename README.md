@@ -18,7 +18,7 @@
 - 👨‍💻 I’m currently working on web development technologies like Angular, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Hopefully gather enough to write my own framework.
-- ⚡ Fun fact: I love to producing music - making beats, mixing and mastering songs.
+- ⚡ Fun fact: I love producing music - making beats, mixing and mastering songs.
 
 ---
 
@@ -30,5 +30,5 @@
 </p>
 
 <p align="center">
-  Made with ❤️ in South Africa
+  ❤️ South African ❤️
 </p>
