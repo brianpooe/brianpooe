@@ -30,5 +30,5 @@
 </p>
 
 <p align="center">
-  ❤️ South African ❤️
+  Proudly South African ❤️
 </p>
