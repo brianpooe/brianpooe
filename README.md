@@ -11,12 +11,8 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Full Stack Developer 
+An experienced Angular developer with a strong background in NestJS and C# backend development. I'm passionate about building robust and scalable web applications using the latest technologies. GitHub is where I showcase my projects, collaborate with the open-source community, and share my knowledge.
 
-- 👨‍💻 I’m currently working on web development technologies like Angular, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Hopefully gather enough to write my own framework.
-- ⚡ Fun fact: I love producing music - making beats, mixing and mastering songs.
 
 ---
 <p align="center">
