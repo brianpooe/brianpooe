@@ -13,8 +13,6 @@
 
 An experienced Angular developer with a strong background in NestJS and C# backend development. I'm passionate about building robust and scalable web applications using the latest technologies. GitHub is where I showcase my projects, collaborate with the open-source community, and share my knowledge.
 
-
----
 <p align="center">
   <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
 </p>
