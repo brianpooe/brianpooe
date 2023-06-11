@@ -9,8 +9,6 @@
     <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50"> 
 </h2>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 An experienced Angular developer with a strong background in NestJS and C# backend development. I'm passionate about building robust and scalable web applications using the latest technologies. GitHub is where I showcase my projects, collaborate with the open-source community, and share my knowledge.
 
 <p align="center">
